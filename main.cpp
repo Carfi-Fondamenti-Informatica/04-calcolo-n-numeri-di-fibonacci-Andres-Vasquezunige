@@ -17,7 +17,7 @@ if(n>=2){
     }
 }
 else{
-    cout<<"errore";
+    cout<<"errore"<<endl;
 }
 
     return 0;
